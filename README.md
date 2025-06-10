@@ -32,7 +32,7 @@ A simple and beginner-friendly Python project to input, analyze, and display stu
    python --version
    
 2. Clone the repository:
-   git clone https://github.com/yourusername/gradeAnalyzer.git
+   git clone https://github.com/Ktara786/gradeAnalyzer.git
    cd gradeAnalyzer
 3. Run the program:
    python gradeAnalyzer.py
